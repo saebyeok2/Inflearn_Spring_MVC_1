@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b010f26e-206f-4f26-a5f9-d74e58d74f68" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/servlet/domain/member/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/servlet/domain/member/MemberRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/servlet/web/servlet/MemberFormServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/servlet/web/servlet/MemberListServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/servlet/web/servlet/MemberSaveServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/project/servlet/domain/member/MemberRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/members.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/members/new-form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/members/save.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2.1/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2.1/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/project/servlet/basic/request/RequestBodyJsonServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/project/servlet/basic/request/RequestBodyJsonServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/basic/hello-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/basic/hello-form.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +39,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -133,7 +131,7 @@
       <workItem from="1695797083613" duration="453000" />
       <workItem from="1695798061588" duration="1290000" />
       <workItem from="1695799682514" duration="88000" />
-      <workItem from="1695799795711" duration="17230000" />
+      <workItem from="1695799795711" duration="19109000" />
     </task>
     <servers />
   </component>
